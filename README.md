@@ -1,4 +1,5 @@
 # pulseaudio-modules-bt
+https://kn100.me/improving-bluetooth-audio-linux/
 
 this repo is a fork of pulseaudio bluetooth modules
 
